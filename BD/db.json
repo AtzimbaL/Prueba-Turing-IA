@@ -1,0 +1,74 @@
+{
+  "items":[
+    {
+      "IDArtista":1,
+      "Nombre":"DPR IAN",
+      "LugarNacimiento":"Australia",
+      "Edad":33,
+      "Imagem":"img1"
+    },
+    {
+  "IDArtista":2,
+  "Nombre":"CL",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":32,
+  "Imagem":"img2"
+  },
+  {
+  "IDArtista":3,
+  "Nombre":"DPR LIVE",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":30,
+  "Imagem":"img3"
+  },
+  {
+  "IDArtista":4,
+  "Nombre":"Jay Park",
+  "LugarNacimiento":"Estados Unidos",
+  "Edad":36,
+  "Imagem":"img4"
+  },
+  {
+  "IDArtista":5,
+  "Nombre":"Simon Dominic",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":39,
+  "Imagem":"img5"
+  },
+  {
+  "IDArtista":6,
+  "Nombre":"Jimin",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":27,
+  "Imagem":"img6"
+  },
+  {
+  "IDArtista":7,
+  "Nombre":"Agust D",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":30,
+  "Imagem":"img7"
+  },
+  {
+  "IDArtista":8,
+  "Nombre":"Jungkook",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":26,
+  "Imagem":"img8"
+  },
+  {
+  "IDArtista":9,
+  "Nombre":"Jennie",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":27,
+  "Imagem":"img9"
+  },
+  {
+  "IDArtista":10,
+  "Nombre":"IU",
+  "LugarNacimiento":"Corea del Sur",
+  "Edad":30,
+  "Imagem":"img10"
+  }
+  ]
+  }
